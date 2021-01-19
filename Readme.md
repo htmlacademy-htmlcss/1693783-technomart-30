@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Мария Чебыкина](https://up.htmlacademy.ru/htmlcss/30/user/1693783).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Минаев](https://htmlacademy.ru/profile/mtvkand).
 
 ---
 
